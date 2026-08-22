@@ -1,0 +1,14 @@
+# Android Studio
+.gradle/
+.idea/
+*/build/
+build/
+local.properties
+
+# Compilação
+*.apk
+*.aab
+
+# Sistema
+.DS_Store
+Thumbs.db
